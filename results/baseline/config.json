@@ -1,0 +1,9 @@
+{
+  "variant": "baseline",
+  "epochs": 10,
+  "batch_size": 128,
+  "workers": 0,
+  "limit_train": 10000,
+  "seed": 42,
+  "lr": 0.001
+}
